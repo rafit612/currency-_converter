@@ -1,0 +1,61 @@
+Currency Unit
+Bangladeshi Taka
+Indian Rupee
+Pakistani Rupee
+USA Dollar
+Euro
+KSA Riyal
+British Pound
+Australian Dollar
+Canadian Dollar
+Singapor Dollar
+Emirati Dirham
+Afghan Afghani
+Albanian Lek
+Dutch Guilder
+Argentina Peso
+Bulgarian Lev
+Bahraini Dinar
+Bolivian Boliviano
+Brazilian Real
+Bhutanese Ngultrum
+Swiss Franc
+Chilean Peso
+Yean Renminbi
+Colombian Peso
+Costa Rican Colon
+Crezh Koruna
+Algeria Dinar
+Egypt Pound
+Ethiopian Birr
+Hong Kong Dollar
+Hungarian Forint
+Indonesia Rupiah
+Israelo Shekel
+Iraqi Dinar
+Iranian Rial
+Icelandic Krona
+Japaican Dollar
+Jordanian Dinar
+Japansese Yen
+Kenyan Shilling
+Cambodian Riel
+North Korean Won
+South Korean Won
+Kuwaiti Dinar
+kazakhstani Tenge
+Lebanese Pound
+Sri Lankan Rupee
+Moroccan Dinar
+Kyat
+Mexican Peso
+Malaysian Ringgit
+New Zealand Dollar
+Oman Rial
+Romanian Leu
+Russian Ruble
+Turkish Lira
+Silver Ounce
+Gold Ounce
+Platinum Ounce
+Bitcoin 
